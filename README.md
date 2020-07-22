@@ -34,7 +34,7 @@ Step 3: Build dim `general offense category` table by extracting the offense id 
 Step 4: Build dim `police_dept_offense` table by extracting the police_dept id and police_dept offense description from NY crimes statistics table 
 Step 5: Build dim `race` table by extracting the racial information of perpetrator from NY crimes statistics table 
 
-![ERD](blm-ERD.png)
+![ERD](docs/blm-ERD.png)
 
 ### File Explanations 
 ***
